@@ -1,0 +1,34 @@
+genre,artist,track_name,album_name,release_year,album_type,bpm,number_of_streams,song_length_min,avg_percent_song_played
+Bollywood,Arijit Singh,Tum Hi Ho,Aashiqui 2,2013,Album,94,850000000,4:22,96
+Bollywood,Arijit Singh,Channa Mereya,Ae Dil Hai Mushkil,2016,Album,105,620000000,4:49,94
+Bollywood,Shreya Ghoshal,Teri Ore,Singh Is Kinng,2008,Album,82,180000000,5:00,90
+Bollywood,Sonu Nigam,Abhi Mujh Mein Kahin,Agneepath,2012,Album,72,150000000,6:04,92
+Bollywood,Armaan Malik,Bol Do Na Zara,Azhar,2016,Album,90,210000000,4:53,91
+Sufi / Qawwali,Nusrat Fateh Ali Khan,Afreen Afreen,Sangam,1996,Album,96,120000000,7:02,95
+Sufi / Qawwali,Rahat Fateh Ali Khan,O Re Piya,Aaja Nachle,2007,Album,88,230000000,6:19,94
+Sufi / Qawwali,Abida Parveen,Yaar Ko Humne Ja Ba Ja Dekha,Live,2000,Live,78,25000000,8:12,89
+Sufi / Qawwali,Nusrat Fateh Ali Khan,Tumhe Dillagi,The Best of Nusrat,1990,Compilation,84,95000000,6:25,93
+DHH / Rap,KR$NA,Machayenge 4,Single,2021,Single,140,85000000,3:42,91
+DHH / Rap,KR$NA,No Cap,Time Will Tell,2022,Album,100,42000000,3:18,90
+DHH / Rap,Emiway Bantai,Company,Single,2022,Single,98,70000000,3:30,89
+DHH / Rap,Seedhe Maut,Nanchaku,Nayaab,2022,Album,145,32000000,3:34,93
+DHH / Rap,DIVINE,3:59 AM,Punya Paap,2020,Album,92,48000000,3:36,90
+DHH / Rap,Raftaar,Ghana Kasoota,Single,2021,Single,128,39000000,3:12,88
+Punjabi,Sidhu Moose Wala,295,Moosetape,2021,Album,90,500000000,4:30,96
+Punjabi,AP Dhillon,Excuses,Single,2021,Single,100,420000000,2:57,94
+Punjabi,Diljit Dosanjh,Lover,MoonChild Era,2021,Album,105,160000000,3:10,92
+Punjabi,Karan Aujla,Softly,Making Memories,2023,Album,98,210000000,2:35,95
+Indie,Anuv Jain,Baarishein,Single,2018,Single,88,180000000,3:27,94
+Indie,Prateek Kuhad,Kasoor,The Way That Lovers Do,2019,Album,90,130000000,3:15,92
+Indie,The Local Train,Choo Lo,Aalas Ka Pedh,2015,Album,110,90000000,4:26,93
+Pop,King,Maan Meri Jaan,Champagne Talk,2022,Album,105,350000000,3:14,95
+Pop,Darshan Raval,Ek Tarfa,Single,2020,Single,92,240000000,3:47,92
+DHH / Rap,Raftaar,Swag Mera Desi,Swag Mera Desi,2013,Single,100,65000000,3:40,90
+DHH / Rap,Raftaar,Dhaakad,Dangal,2016,Soundtrack,120,80000000,2:56,91
+Sufi / Qawwali,Zain Zohaib,Haiderium,Haiderium,2018,Single,92,18000000,5:10,92
+Sufi / Qawwali,Zain Zohaib,Ranjheya Ve,Ranjheya Ve,2022,Single,95,218000000,3:30,95
+Sufi / Qawwali,Zain Zohaib,Thagyan,Thagyan,2022,Single,100,22000000,4:10,93
+Ghazal,Jagjit Singh,Hothon Se Chhu Lo Tum,Prem Geet,1981,Soundtrack,78,90000000,4:55,96
+Ghazal,Pankaj Udhas,Chitthi Aayi Hai,Naam,1986,Soundtrack,82,85000000,7:15,95
+Ghazal,Ghulam Ali,Chupke Chupke Raat Din,Nikaah,1982,Soundtrack,75,70000000,5:16,94
+Ghazal,Mehdi Hassan,Ranjish Hi Sahi,Kahan Kahan Se Guzar Gaya,1978,Album,72,60000000,7:20,97
