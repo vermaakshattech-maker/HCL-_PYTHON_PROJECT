@@ -1,4 +1,4 @@
-genre,artist,track_name,album_name,release_year,album_type,bpm,number_of_streams,song_length_min,avg_percent_song_played
+Genre,Artist,Track_Name,Album_Name,Release_Year,Album_Type,Bpm,Number_Of_Streams,Song_Length_Min,Avg_Percent_Song_Played
 Bollywood,Arijit Singh,Tum Hi Ho,Aashiqui 2,2013,Album,94,850000000,4:22,96
 Bollywood,Arijit Singh,Channa Mereya,Ae Dil Hai Mushkil,2016,Album,105,620000000,4:49,94
 Bollywood,Shreya Ghoshal,Teri Ore,Singh Is Kinng,2008,Album,82,180000000,5:00,90
